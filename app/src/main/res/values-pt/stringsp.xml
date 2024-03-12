@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="btn1">Botao 1</string>
+    <string name="tv1">Texto 1</string>
+    <string name="btn2">Botao 2</string>
+    <string name="tv2">Texto 2</string>
+    <string name="tv3">Texto 3</string>
+</resources>
